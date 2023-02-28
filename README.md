@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello there,
-## I'm Paulo, a Computer Science Student at [University of Brasília][UnB] not a Jedi (but I wish)
+## I'm Paulo, a Computer Science Student at [University of Brasília][UnB]
 
-- I am 1 year from graduating from my course!  
+- I am 1 year from graduating from my course.
 - I’m currently learning about DDoS and ARDDoS.   
 - Public email: reset.public2001@gmail.com
 - Personal interests: IoT, Malwares, [HackTheBox][hack], Distributed System, movies like [Tron][tron], and games... I love games.
