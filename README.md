@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 - Public email: reset.public2001@gmail.com
 - Personal interests: IoT, Malwares, [HackTheBox][hack], Distributed System, movies like [Tron][tron], and games... I love games.
 
-## Stats
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=reset-req&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-## Most used 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reset-req&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-
+##
+<div>
+ <a href="https://github.com/reset-req">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reset-req&theme=rose_pine&show_icons=true"/>                             
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reset-req&theme=rose_pine&show_icons=true"/>
+</div>
+  
 ## “And those who were seen dancing were thought to be insane by those who could not hear the music.” - Friedrich Nietzsche
 
 [UnB]: https://www.unb.br/
