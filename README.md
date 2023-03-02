@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div>
  <a href="https://github.com/reset-req">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reset-req&theme=rose_pine&show_icons=true&include_all_commits=true&custom_title=Github%20Stats"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reset-req&layout=compact&theme=rose_pine&show_icons=true&hide=jupyter%20notebook"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reset-req&layout=compact&theme=rose_pine&show_icons=true&hide=jupyter%20notebook&card_width=200"/>
 </div>
   
 ## “And those who were seen dancing were thought to be insane by those who could not hear the music.” - Friedrich Nietzsche
