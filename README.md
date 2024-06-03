@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **reset-req/reset-req** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello there,
+## I'm Paulo, a Computer Science Student at [University of Brasília][UnB]
+
+- I’m currently learning about DDoS and Reversing.
+- Personal interests: IoT, Malwares, [HackTheBox][hack], Distributed System, movies like [Tron][tron], and games... I love games.
+
+##
+<div>
+ <a href="https://github.com/reset-req">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reset-req&theme=rose_pine&show_icons=true&custom_title=Github%20Stats&card_width=180"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reset-req&layout=compact&theme=rose_pine&show_icons=true&hide=jupyter%20notebook&card_width=180"/>
+</div>
+  
+## “And those who were seen dancing were thought to be insane by those who could not hear the music.” - Friedrich Nietzsche
+
+[UnB]: https://www.unb.br/
+[hack]: https://www.hackthebox.com/
+[tron]: https://en.wikipedia.org/wiki/Tron
