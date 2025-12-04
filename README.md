@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello there,
-## I'm Paulo, a Computer Science Student at [University of Brasília][UnB]
+## I'm a Computer Science Student at [University of Brasília][UnB]
 
 - I’m currently learning about DDoS and Reversing.
 - Personal interests: IoT, Malwares, [HackTheBox][hack], Distributed System, movies like [Tron][tron].
